@@ -1,5 +1,4 @@
-//
-const flashlight = document.querySelector("#");
+const flashlight = document.querySelector("#flashlight");
 
 const flashlightHalfWidth = flashlight.offsetWidth / 2;
 
